@@ -2,32 +2,10 @@
   "posts": [
   {
     "postId": 1,
-    "id": 1,
-    "name": "id labore ex et quam laborum",
-    "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
-  },
- 
-  {
-    "postId": 1,
     "id": 3,
     "name": "odio adipisci rerum aut animi",
     "email": "Nikita@garfield.biz",
     "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
-  },
-  {
-    "postId": 1,
-    "id": 4,
-    "name": "alias odio sit",
-    "email": "Lew@alysha.tv",
-    "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
-  },
-  {
-    "postId": 1,
-    "id": 5,
-    "name": "vero eaque aliquid doloribus et culpa",
-    "email": "Hayden@althea.biz",
-    "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
   },
   {
     "postId": 2,
@@ -66,13 +44,6 @@
     "body": "fuga eos qui dolor rerum\ninventore corporis exercitationem\ncorporis cupiditate et deserunt recusandae est sed quis culpa\neum maiores corporis et"
   },
   {
-    "postId": 3,
-    "id": 15,
-    "name": "debitis magnam hic odit aut ullam nostrum tenetur",
-    "email": "Maynard.Hodkiewicz@roberta.com",
-    "body": "nihil ut voluptates blanditiis autem odio dicta rerum\nquisquam saepe et est\nsunt quasi nemo laudantium deserunt\nmolestias tempora quo quia"
-  },
-  {
     "postId": 4,
     "id": 16,
     "name": "perferendis temporibus delectus optio ea eum ratione dolorum",
@@ -101,13 +72,6 @@
     "body": "qui ipsa animi nostrum praesentium voluptatibus odit\nqui non impedit cum qui nostrum aliquid fuga explicabo\nvoluptatem fugit earum voluptas exercitationem temporibus dignissimos distinctio\nesse inventore reprehenderit quidem ut incidunt nihil necessitatibus rerum"
   },
   {
-    "postId": 5,
-    "id": 25,
-    "name": "autem ab ea sit alias hic provident sit",
-    "email": "Isaias_Kuhic@jarrett.net",
-    "body": "sunt aut quae laboriosam sit ut impedit\nadipisci harum laborum totam deleniti voluptas odit rem ea\nnon iure distinctio ut velit doloribus\net non ex"
-  },
-  {
     "postId": 6,
     "id": 28,
     "name": "quo voluptates voluptas nisi veritatis dignissimos dolores ut officiis",
@@ -120,27 +84,6 @@
     "name": "voluptatum totam vel voluptate omnis",
     "email": "Jaeden.Towne@arlene.tv",
     "body": "fugit harum quae vero\nlibero unde tempore\nsoluta eaque culpa sequi quibusdam nulla id\net et necessitatibus"
-  },
-  {
-    "postId": 7,
-    "id": 34,
-    "name": "omnis nemo sunt ab autem",
-    "email": "Ethelyn.Schneider@emelia.co.uk",
-    "body": "omnis temporibus quasi ab omnis\nfacilis et omnis illum quae quasi aut\nminus iure ex rem ut reprehenderit\nin non fugit"
-  },
-  {
-    "postId": 7,
-    "id": 35,
-    "name": "repellendus sapiente omnis praesentium aliquam ipsum id molestiae omnis",
-    "email": "Georgianna@florence.io",
-    "body": "dolor mollitia quidem facere et\nvel est ut\nut repudiandae est quidem dolorem sed atque\nrem quia aut adipisci sunt"
-  },
-  {
-    "postId": 8,
-    "id": 36,
-    "name": "sit et quis",
-    "email": "Raheem_Heaney@gretchen.biz",
-    "body": "aut vero est\ndolor non aut excepturi dignissimos illo nisi aut quas\naut magni quia nostrum provident magnam quas modi maxime\nvoluptatem et molestiae"
   },
   {
     "postId": 8,
@@ -229,13 +172,6 @@
     "name": "libero beatae consequuntur optio est hic",
     "email": "Vesta_Crooks@dora.us",
     "body": "tempore dolorum corrupti facilis\npraesentium sunt iste recusandae\nunde quisquam similique\nalias consequuntur voluptates velit"
-  },
-  {
-    "postId": 13,
-    "id": 63,
-    "name": "occaecati dolor accusantium et quasi architecto aut eveniet fugiat",
-    "email": "Margarett_Klein@mike.biz",
-    "body": "aut eligendi et molestiae voluptatum tempora\nofficia nihil sit voluptatem aut deleniti\nquaerat consequatur eaque\nsapiente tempore commodi tenetur rerum qui quo"
   },
   {
     "postId": 13,
